@@ -77,6 +77,8 @@ public class ReplayViewerScript : MonoBehaviour
 
         // Set the mode
         viewingReplay = true;
+        speedDropdown.SetValueWithoutNotify(1);
+        replayPlaybackSpeed = 1.0f;
 
         // Start paused
         pauseReplay = true;

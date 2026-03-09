@@ -13,10 +13,10 @@ A simple replay system that records and plays back an object's position, rotatio
   - Playback speed control
 
 ## Folder Structure
-Sessions/
-├── 2026-03-09_11-54-06/
-│   ├── replay ← compressed JSON
-│   └── metadata.json ← date + duration
+Sessions/  
+├── 2026-03-09_11-54-06/  
+│   ├── replay ← compressed JSON  
+│   └── metadata.json ← date + duration  
 └── ...
 
 ## Screenshots
